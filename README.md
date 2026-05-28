@@ -646,7 +646,7 @@ Upload to GitHub Pages for free hosting.
     </div>
 </section>
 <footer style="background-color: #222; color: #fff; text-align: center; padding: 20px 10px;">
-  <p>&copy; 2026 K.Mohamed Althaf. All rights reserved.</p>
+  <p>&copy; 2025 Flexify. All rights reserved.</p>
 </footer>
 
 </body>
